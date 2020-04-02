@@ -1,0 +1,30 @@
+commit 3a4d1af4d46b96df4dfb30197aeaa6c9a85f3393
+Merge: 0db0ece 870aaf6
+Author: Ubuntu <ubuntu@ip-172-31-39-154.ec2.internal>
+Date:   Thu Apr 2 22:25:50 2020 +0000
+
+    Merge branch 'master' of https://github.com/bradosia/BIS180L_Lab2
+
+commit 870aaf6f2f7475281f3d5bdca755a5746c01edb9
+Author: Ubuntu <ubuntu@ip-172-31-33-178.ec2.internal>
+Date:   Thu Apr 2 22:24:31 2020 +0000
+
+     added plans
+
+commit 0db0ecef6ffb321e12dde0b1535abd320389c3b4
+Author: Ubuntu <ubuntu@ip-172-31-39-154.ec2.internal>
+Date:   Thu Apr 2 22:21:46 2020 +0000
+
+    This is my change!
+
+commit 9230fd151aec027f7346feb78f3bc3cccb126948
+Author: Ubuntu <ubuntu@ip-172-31-39-154.ec2.internal>
+Date:   Thu Apr 2 22:14:10 2020 +0000
+
+    hi
+
+commit aac2792087b2f47c22ef9aa3d9c644313ec3ec77
+Author: Ubuntu <ubuntu@ip-172-31-39-154.ec2.internal>
+Date:   Thu Apr 2 22:09:16 2020 +0000
+
+    hi
